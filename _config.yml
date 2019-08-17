@@ -1,13 +1,13 @@
 # Site settings
-title: Summer Tree is Cyan
-SEOTitle: 夏木青 | JoselynZhao Blog
+title: Welcome!!!
+SEOTitle: wzc | Wzc Blog
 header-img: img/post-bg-desk.jpg
-email: zhaojing17@foxmail.com
+email: wzc19990405@163.com
 description: "Every failure is leading towards success."
-keyword: "夏木, 夏青, 夏木青, JoselynZhao, 夏木青Joselynzhao, summertree, summer tree is green, joselyn"
-url: "http://zhaojing1995.github.io"          # your host, for absolute URL
+keyword: "wzc"
+url: "http://wzc-run.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zhaojing1995/zhaojing1995.github.io.git" # you code repository
+github_repo: "https://github.com/wzc-run/Wzc-Run.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,15 +18,15 @@ sidebar-avatar: /img/Summertree.jpg      # use absolute URL, seeing it's used in
 
 # SNS settings
 RSS: false
-weibo_username:     5734466460
-zhihu_username:     zhao-jing-38-52
-github_username:    zhaojing1995
+weibo_username:     6363559199
+zhihu_username:     wang-wei-1-15-8
+github_username:    wzc-run
 quanminkge_username: 649f9f862d2c328f33
 #facebook_username:  baiying.qiu.7
-jianshu_username:   4ce1c18ec636
-csdn_username:      NGUever15
+#jianshu_username:   4ce1c18ec636
+csdn_username:      qq_40519226
 #twitter_username:   qiubaiying
-
+#instagram_username:
 
 
 
@@ -66,9 +66,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 12bf2112b3dccc1e41a9                          #生成的clientID
   clientSecret: e04aef30eeb11d1918e24d1b88c7cb9d6c05fa82    #生成的clientSecret
-  repo: zhaojing1995.github.io    #仓库名称
-  owner: zhaojing1995    #github用户名
-  admin: JoselynZhao
+  repo: Wzc-Run.github.io    #仓库名称
+  owner: wzc-run    #github用户名
+  admin: wzc
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
